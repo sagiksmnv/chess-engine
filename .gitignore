@@ -15,7 +15,7 @@
 *.so
 *.dylib
 *.dll
-
+∏
 # Fortran module files
 *.mod
 *.smod
@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# CMake artifacts
+build/
